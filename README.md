@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mardon
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on codeschool acadimiya
 - 📫 How to reach me [https://te.m/S_M_M_1207](https://t.me/S_M_M_1207) or https://github.com/Mardon1207
 
 <!---
