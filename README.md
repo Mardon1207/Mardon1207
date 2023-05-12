@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mardon1207
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on https://te.m/S_M_M_1207
+- 💞️ I’m looking to collaborate on [https://te.m/S_M_M_1207](https://t.me/S_M_M_1207)
 - 📫 How to reach me ...
 
 <!---
